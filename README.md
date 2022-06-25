@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java Script**
 
-- 💬 Ask me about **Economia**
+- 💬 Ask me about **Economia, Gerenciamento de Risco e Capital, Investiments e Análise Fundamentalista**
 
 - 📫 How to reach me **moacir.camargo30@gmail.com**
 
